@@ -1,0 +1,10 @@
+[project]
+name = "mafia-game"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "python-telegram-bot==22.5",
+    "fastapi[standard]",
+    "uvicorn[standard]",
+    "pydantic"
+]
