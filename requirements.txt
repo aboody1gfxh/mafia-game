@@ -1,6 +1,0 @@
-fastapi[standard]
-uvicorn[standard]
-httpx
-pIL
-telethon
-telethon.tl.types
