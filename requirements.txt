@@ -1,4 +1,0 @@
-httpx
-pIL
-telethon
-telethon.tl.types
