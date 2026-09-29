@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn[standard]
+httpx
+pIL
+telethon
+telethon.tl.types
+PIL import Image, ImageDraw, ImageFont
